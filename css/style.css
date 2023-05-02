@@ -9733,7 +9733,7 @@ h3 {
     float: left;
     overflow: auto;
     scrollbar-width: thin;
-
+    scrollbar-color: var(--gray);
     z-index: 9;
   }
 
