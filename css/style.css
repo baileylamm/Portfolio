@@ -9669,7 +9669,7 @@ h3 {
 }
 
 .wrapper .sidebar {
-  position: relative;
+  position: fixed;
   width: 100%;
   float: left;
   padding: 50px;
