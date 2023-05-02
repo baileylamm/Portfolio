@@ -9666,14 +9666,13 @@ h3 {
   margin: 0 auto;
   width: 100%;
   max-width: 1140px;
-  padding: 25px;
 }
 
 .wrapper .sidebar {
   position: relative;
   width: 100%;
   float: left;
-  padding: 30px;
+  padding: 50px;
   background: #ffffff;
 }
 
