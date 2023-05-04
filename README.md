@@ -1,4 +1,4 @@
-# Personal Portfolio :wave:
+# Personal Portfolio 👩‍🎓:
 
 ## Welcome to my personal portfolio! This page features projects I have completed during my time at the University of Iowa. 
 
