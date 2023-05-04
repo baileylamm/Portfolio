@@ -10,9 +10,9 @@ This website was created as part of the final project for Digital Product Manage
 ---
 
 ### Projects Included: 
-Study Abroad in Greece
-Business Analytics Capstone Project
-Enterprise Risk Management Experiential Project
-Property and Liability Insurance Project
-Digital Product Management
-Holmes Murphy Internship
+- Study Abroad in Greece  
+- Business Analytics Capstone Project 
+- Enterprise Risk Management Experiential Project 
+- Property and Liability Insurance Project  
+- Digital Product Management  
+- Holmes Murphy Internship  
