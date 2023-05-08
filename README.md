@@ -2,6 +2,7 @@
 
 ## Welcome to my personal portfolio! This page features projects I have completed during my time at the University of Iowa. 
 
+<img src="https://raw.githubusercontent.com/baileylamm/Portfolio/main/Headshot.JPG" alt="Professional Headshot" width="300" height="400" align = "right">
 ---  
 
 ### Purpose
@@ -16,3 +17,4 @@ This website was created as part of the final project for Digital Product Manage
 - Property and Liability Insurance Project  
 - Digital Product Management  
 - Holmes Murphy Internship  
+
